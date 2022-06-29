@@ -1,0 +1,23 @@
+body{
+    background-color:#14213d ;
+}
+
+
+.createBorder{
+    border-left: 25px solid #2a9d8f;
+    border-bottom: 25px solid #2a9d8f;
+    border-right: 25px solid #2a9d8f;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Permanent Marker', cursive;
+font-family: 'Poppins', sans-serif;
+
+    
+}
+
+.createBorder h2{
+    margin-top: 0px;
+
+}
+
+

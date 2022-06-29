@@ -1,0 +1,37 @@
+body{
+    background-color:#1b263b;
+    font-family: 'Permanent Marker', cursive;
+font-family: 'Poppins', sans-serif;
+text-align: center;
+color: aliceblue;
+
+
+}
+
+p{
+    max-width: 480px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#sub{
+    background-color: orange;
+    border-radius: 18px;
+    width: 100px;
+    height: 55px;
+    margin-top: 5px;
+}
+
+input{
+    width: 220px;
+    height: 20px;
+}
+
+.formEdit{
+    margin-top: 45px;
+}
+
+#sub:hover{
+    cursor: pointer;
+}
+
